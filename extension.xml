@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>InfoTN ITClassManager Extension</name>
+        <version>1.0</version>
+        <copyright>Copyright © 2010 Informatica Trentina SpA</copyright>
+        <license>GNU General Public License v2.0</license>
+    </metadata>
+
+    <dependencies>
+        <requires>
+            <extension name="openpa-ls" />            
+        </requires>
+    </dependencies>
+
+</software>
