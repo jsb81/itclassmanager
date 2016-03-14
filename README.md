@@ -1,1 +1,6 @@
 # itclassmanager
+
+Necessita di openpa.
+
+Questa estensione deve essere abilitata sia sul sito utilizzatore che sul sito
+remoto.
