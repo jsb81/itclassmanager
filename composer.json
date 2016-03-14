@@ -9,11 +9,11 @@
             "homepage": "http://www.infotn.it"
         }
     ],
-    "license": "GPL-2.0",    
-    "minimum-stability": "dev",   
+    "license": "GPL-2.0",
+    "minimum-stability": "dev",
     "require": {
 		"ezsystems/ezpublish-legacy-installer": "*",
-        "opencontent/openpa-ls": ">=1.0"
+		"opencontent/openpa-ls": ">=1.0"
     },
     "extra": {
         "ezpublish-legacy-extension-name": "itclassmanager"
